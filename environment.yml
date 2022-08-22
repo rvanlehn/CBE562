@@ -9,6 +9,7 @@ dependencies:
 - notebook
 - ipykernel
 - nglview=2.7
+- mdtraj
 - rdkit::rdkit
 - pip:
     - pytraj
