@@ -11,7 +11,7 @@ dependencies:
 - nglview=2.7
 - mdtraj
 # - rdkit::rdkit
-#- pip:
- #   - pytraj
+- pip:
+   - matplotlib
  #   - ipython_blocking
  #   - moviepy
